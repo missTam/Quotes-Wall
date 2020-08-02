@@ -9,7 +9,9 @@ Vanilla JavaScript
 # Back-end
 
 Java
+
 Spring Boot
+
 MySQL
 
 # Design
