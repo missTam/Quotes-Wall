@@ -18,7 +18,7 @@ Bootstrap v4.0.0
 
 # Screenshots
 
-<img src="resources/quotesWall.png">
+<img src="src/main/java/resources/quotesWall.png">
 
 # Links
 
