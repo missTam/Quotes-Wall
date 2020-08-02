@@ -1,6 +1,6 @@
 # Quotes App
 
-Simple full-stack Web App for performing CRUD operations on favourite quotes.
+Simple full-stack Web Application for performing CRUD operations on favourite quotes.
 
 # Front-end
 
