@@ -1,12 +1,12 @@
-# Quotes App
+## Quotes App
 
 Simple full-stack Web Application for performing CRUD operations on favourite quotes.
 
-# Front-end
+## Front-end
 
-Vanilla JavaScript
+JavaScript
 
-# Back-end
+## Back-end
 
 Java
 
@@ -14,15 +14,15 @@ Spring Boot
 
 MySQL
 
-# Design
+## Design
 
 Bootstrap v4.0.0
 
-# Screenshots
+## Screenshots
 
 <img src="src/main/resources/quotesWall.png">
 
-# Links
+## Links
 
 [Bootstrap](https://getbootstrap.com/)
 
